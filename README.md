@@ -1,3 +1,3 @@
 # byo.js
 
-JavaScript logo customization visualizer
+Drag-and-drop custom JavaScript logos.
